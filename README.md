@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**RaulViny/RaulViny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Raul. 
+I have a background and experience in the administrative field, but I’m currently looking to transition into the tech industry as a developer."
+I’m currently learning HTML, CSS, and JavaScript to create front-end projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+
+
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+
+
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js-logo" />
+
+
+I believe that my administrative skills in process organization, communication, problem-solving, and planning can help me in this new field.
+I would like to contribute with my skills to real projects, in order to improve my abilities more and more each day.
+Feel free to ask me if you want to know more.
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/raul-vinycius-medeiros-correia" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
