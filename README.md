@@ -22,3 +22,5 @@ Feel free to ask me if you want to know more.
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulviny&size_weight=0.5&count_weight=0.5)
